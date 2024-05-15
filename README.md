@@ -1,6 +1,6 @@
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
 [TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
+[REACT__BADGE]: https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react
 [TAILWIND__BADGE]: https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss
 
 ![DANIEL-DEV---CAPA-LINKEDING (2)](https://github.com/danielrdsdev/danielrdsdev/assets/97995126/ea2f210f-baac-44ae-8a7c-b6144d049399)
