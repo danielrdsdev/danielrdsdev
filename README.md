@@ -21,6 +21,6 @@ I'm passionate about crafting beautiful and user-friendly web interfaces. With a
 ![reactquery][TANSTACK__BADGE]
 
 **Let's connect!**
-Feel free to reach out to me on [LinkedIn link](https://www.linkedin.com/in/danielrdsdev/)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/danielrdsdev/)
 
 **Looking forward to collaborating!**
