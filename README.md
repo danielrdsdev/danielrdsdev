@@ -15,7 +15,7 @@ I'm passionate about crafting beautiful and user-friendly web interfaces. With a
 ![javascript][JAVASCRIPT__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
 ![react][REACT__BADGE]
-![nextjs][NEXTJS__BADGE]
+![nextjs][NEXJS__BADGE]
 ![tailwind][TAILWIND__BADGE]
 
 **Let's connect!**
